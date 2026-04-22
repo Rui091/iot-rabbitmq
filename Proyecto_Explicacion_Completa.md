@@ -90,4 +90,4 @@ El entorno fue ajustado estrictamente para no generar facturación:
 5. ECS detecta el código, descarga la imagen e inicia los microservicios.
 6. El sistema completo queda en línea, escalable, balanceado y aislado de ataques externos.
 
-*Documento Generado Exitosamente.*
+
